@@ -1,0 +1,3 @@
+[submodule "ccbox/themes/fuji"]
+	path = ccbox/themes/fuji
+	url = https://github.com/dsrkafuu/hugo-theme-fuji.git
