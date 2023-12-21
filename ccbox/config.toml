@@ -1,4 +1,4 @@
-baseURL = "https://crunchxx.cn/"
+baseURL = "http://crunchxx.cn/"
 title = "咔嗒的盒子"
 
 theme = "fuji"
